@@ -1,0 +1,6 @@
+{
+  "name": "OUTS",
+  "description": "Premium dual-sided social ticketing and reservation platform featuring B2C mobile flows, B2B host dashboards, and web administrator controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
